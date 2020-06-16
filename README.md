@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gera_notas
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# gera_notas_mobile
+projeto PI FATESG
+>>>>>>> b4b848044fa44b61e3c8d165fbd1c102696a2802
